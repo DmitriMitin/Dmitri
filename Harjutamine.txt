@@ -1,1 +1,3 @@
 Edaspidi saan programmeerijate töid jälgida, ise eksponeerida ja palju uut õppida.
+Loojad Chris Vanstras, PJ Hiett ja Tom Preston-Werner
+Töö algus aprill 2008
